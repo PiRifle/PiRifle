@@ -1,29 +1,84 @@
 # Piotr Czirnia
 
-## Hi there! 👋
+Software engineer from Opole, Poland. Writing code since age 9.
 
-I'm Piotr, a passionate and self-taught high school student with a love for programming and software development. I've been on this incredible journey for the past six years, continuously expanding my skills and knowledge in various technologies. My primary focus is on full stack web development, and I enjoy working with TypeScript, React.js, Python, Kotlin, SQL, and MongoDB. I also have experience creating frontends for mobile apps, providing a seamless user experience across different platforms.
+I work across the full stack — web, mobile, and data systems. Two active
+contracts, one degree in progress, eleven years of writing code.
 
-## My Projects
+---
 
-Here are a couple of projects I've worked on:
+## Work
 
-### Blind Dating
-Blind Dating is a unique dating event platform that connects people based on their age, interests, and personality traits. The platform provides an intuitive and engaging user interface built with Node.js, TypeScript, Next.js, React.js, Chakra UI, and Python. I also utilized Docker Compose for containerization, Redis for efficient caching, and MongoDB for data storage. OAuth was implemented to ensure secure user authentication.
+**CODEFUSION — Software Engineer** *(Nov 2025 – present)*
+Custom software house, ~15 years on the market. Working on AI-powered
+systems including an automated code review platform built on Semantic
+Kernel. Involved in technical decision-making and client-facing engineering.
 
-### SignumLBRI
-SignumLBRI is a comprehensive bookshop website designed specifically for school book fairs. Users can easily sell and manage their school books through this platform. The website is built using Node.js, TypeScript, Pug.js, Bootstrap, and Webpack. MongoDB is used for efficient data management.
+**DEPCORE — Mid Web Developer** *(Oct 2023 – present)*
+End-to-end web product delivery at consistent scale. 57+ repositories,
+40+ OctoberCMS plugins, 15+ WordPress/WooCommerce implementations,
+payment gateway integrations (Przelewy24, Tpay), client data migrations
+and batch processing pipelines. The full lifecycle — consultation,
+architecture, build, deploy, support.
 
-## Let's Connect! 🤝
 
-I'm always looking for new opportunities and collaborations to enhance my skills and contribute to exciting projects. If you're interested in working together or simply want to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/piotr-czirnia-79a7401bb/) or drop me an email at piotrekpolocz@gmail.com
+---
 
-Looking forward to connecting with you and making a positive impact through innovative software solutions!
+## Stack
 
-## Skills and Technologies
+| | |
+|---|---|
+| Web | React, TypeScript, PHP, Node.js, Tailwind CSS |
+| Mobile | Flutter, Kotlin |
+| Backend / systems | Go, Python, ASP.NET Core |
+| Data | scraping pipelines, keyword extraction, batch processing, migrations |
+| ML tooling | embeddings, local OSS models, RAG harnesses, langchain |
+| CMS / ecom | OctoberCMS, WordPress, WooCommerce |
+| Databases | SQL, MongoDB, Redis |
+| DevOps | Docker, Git |
+| Design | Adobe CC, Blender, Figma |
 
-- Languages: TypeScript, JavaScript, Python, Kotlin
-- Frontend: React.js, Next.js, HTML, CSS, Bootstrap, Chakra UI
-- Backend: Node.js, Express.js
-- Databases: SQL, MongoDB
-- Tools and Technologies: Docker, Docker Compose, Redis, OAuth
+---
+
+## Data & ML work
+
+- Shipped keyword extraction pipelines to production mailing clientbases
+- Built embedding-based product profiling for user interest inference
+  from browsing and purchase behavior
+- Privately developed a local deep document research harness —
+  crude CLI tool, RAG architecture, running on Qwen and open-source
+  GPT models
+- Batch dataset processing and data migrations for client systems
+
+Architecture is handmade. AI earns its place or it doesn't.
+
+---
+
+## Education
+
+**Politechnika Opolska** — B.Eng Mechatronics, Robotics & AI
+*(Oct 2025 – Feb 2029, in progress)*
+
+**Zespół Szkół Elektrycznych, Opole** — ICT Technical School
+*(Aug 2020 – Apr 2025, graduated 4.53/5.0)*
+
+---
+
+## Background
+
+Spent 4+ years as IT Specialist, Graphic Designer, and Programmer at
+my technical school while studying there full-time — maintaining a
+4.53/5.0 average throughout.
+
+Part of the Opole tech ecosystem: connected to CODEFUSION, DEPCORE,
+ITDesk.eu, Politechnika Opolska, and the opole.dev local IT community.
+
+---
+
+## Languages
+
+Polish — native · English — native/bilingual · German — professional working
+
+---
+
+[linkedin](https://linkedin.com/in/piotr-czirnia) · Opole, PL · open to remote
