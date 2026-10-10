@@ -1,84 +1,29 @@
 # Piotr Czirnia
 
-Software engineer from Opole, Poland. Writing code since age 9.
+i write code. have since i was 9, which means most of my life decisions
+have been made in a text editor.
 
-I work across the full stack — web, mobile, and data systems. Two active
-contracts, one degree in progress, eleven years of writing code.
+from Opole, Poland. fell in love with AI back when it was called
+machine learning and came with math homework. these days i build
+systems where AI agents do the heavy lifting — i write the specs, they
+write the code, we both pretend i would've done it better. then i
+review every line anyway.
 
----
+somewhere along the way i ended up shipping: an IoT fleet platform's
+frontend, a payment processing system, more OctoberCMS plugins than i
+bother to count, a few mobile apps, some computer vision pipelines, and
+one very patient RAG setup that runs on my own hardware — the cloud is
+just someone else's computer and mine are right here.
 
-## Work
+the setup, if you're curious: specs sit in a queue, agents work in
+their own git worktrees, and my apps have MCP servers wired in so the
+agents can click around the interface and check their own homework.
+tests run whether anyone's watching or not.
 
-**CODEFUSION — Software Engineer** *(Nov 2025 – present)*
-Custom software house, ~15 years on the market. Working on AI-powered
-systems including an automated code review platform built on Semantic
-Kernel. Involved in technical decision-making and client-facing engineering.
+architecture is still handmade. the AI earns its place in the pipeline
+or it doesn't get one.
 
-**DEPCORE — Mid Web Developer** *(Oct 2023 – present)*
-End-to-end web product delivery at consistent scale. 57+ repositories,
-40+ OctoberCMS plugins, 15+ WordPress/WooCommerce implementations,
-payment gateway integrations (Przelewy24, Tpay), client data migrations
-and batch processing pipelines. The full lifecycle — consultation,
-architecture, build, deploy, support.
+typescript, php, python, go, c++, flutter, kotlin. postgres with the
+fun extensions. arch linux, btw.
 
-
----
-
-## Stack
-
-| | |
-|---|---|
-| Web | React, TypeScript, PHP, Node.js, Tailwind CSS |
-| Mobile | Flutter, Kotlin |
-| Backend / systems | Go, Python, ASP.NET Core |
-| Data | scraping pipelines, keyword extraction, batch processing, migrations |
-| ML tooling | embeddings, local OSS models, RAG harnesses, langchain |
-| CMS / ecom | OctoberCMS, WordPress, WooCommerce |
-| Databases | SQL, MongoDB, Redis |
-| DevOps | Docker, Git |
-| Design | Adobe CC, Blender, Figma |
-
----
-
-## Data & ML work
-
-- Shipped keyword extraction pipelines to production mailing clientbases
-- Built embedding-based product profiling for user interest inference
-  from browsing and purchase behavior
-- Privately developed a local deep document research harness —
-  crude CLI tool, RAG architecture, running on Qwen and open-source
-  GPT models
-- Batch dataset processing and data migrations for client systems
-
-Architecture is handmade. AI earns its place or it doesn't.
-
----
-
-## Education
-
-**Politechnika Opolska** — B.Eng Mechatronics, Robotics & AI
-*(Oct 2025 – Feb 2029, in progress)*
-
-**Zespół Szkół Elektrycznych, Opole** — ICT Technical School
-*(Aug 2020 – Apr 2025, graduated 4.53/5.0)*
-
----
-
-## Background
-
-Spent 4+ years as IT Specialist, Graphic Designer, and Programmer at
-my technical school while studying there full-time — maintaining a
-4.53/5.0 average throughout.
-
-Part of the Opole tech ecosystem: connected to CODEFUSION, DEPCORE,
-ITDesk.eu, Politechnika Opolska, and the opole.dev local IT community.
-
----
-
-## Languages
-
-Polish — native · English — native/bilingual · German — professional working
-
----
-
-[linkedin](https://linkedin.com/in/piotr-czirnia) · Opole, PL · open to remote
+[linkedin](https://linkedin.com/in/czirnia) · Opole, PL
