@@ -10,10 +10,12 @@ write the code, we both pretend i would've done it better. then i
 review every line anyway.
 
 somewhere along the way i ended up shipping: an IoT fleet platform's
-frontend, a payment processing system, more OctoberCMS plugins than i
-bother to count, a few mobile apps, some computer vision pipelines, and
-one very patient RAG setup that runs on my own hardware — the cloud is
-just someone else's computer and mine are right here.
+frontend, a payment processing system, a backend server refactored top
+to bottom in c# — live events, live queues, built for snappy — more
+OctoberCMS plugins than i bother to count, a few mobile apps, some
+computer vision pipelines, and one very patient RAG setup that runs on
+my own hardware — the cloud is just someone else's computer and mine
+are right here.
 
 the setup, if you're curious: specs sit in a queue, agents work in
 their own git worktrees, and my apps have MCP servers wired in so the
@@ -23,7 +25,7 @@ tests run whether anyone's watching or not.
 architecture is still handmade. the AI earns its place in the pipeline
 or it doesn't get one.
 
-typescript, php, python, go, c++, flutter, kotlin. postgres with the
-fun extensions. arch linux, btw.
+typescript, c#, php, python, go, c++, flutter, kotlin. postgres with
+the fun extensions. arch linux, btw.
 
 [linkedin](https://linkedin.com/in/czirnia) · Opole, PL
